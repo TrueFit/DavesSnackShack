@@ -28,4 +28,4 @@ The site should have the following functionality:
 ### Create an order
 * Ability to see the item currently in the cart
 * Ability remove an item in the cart
-* Ability to checkout
+* Ability to place order
