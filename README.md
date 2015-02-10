@@ -1,10 +1,17 @@
 Dave's Snack Shack
 ========================
-The Problem
+Directions
 --------------------------------------
+### The Problem
 * Read the following scenario and site requirements
 * Go to the site and test the application
-* Provide the documentation for bugs and tests that you think is appropriate
+
+### To Submit Your Answer
+Email us with the following:
+
+* Issues you find
+* A description of how you approached the testing and what you did
+* Anything else that you think is appropriate
 
 Scenario
 --------------------------------------
@@ -16,8 +23,7 @@ Dave runs a small business providing snacks to our employees since we do not hav
 
 You can find the site at: http://davessnackshack.azurewebsites.net/
 
-Site Requirements
---------------------------------------
+### Site Requirements
 The site should have the following functionality:
 
 ### Inventory Display
